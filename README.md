@@ -9,6 +9,6 @@ This project has been developed by:
 
 This repository contains the following files:
 
--The text with the especifications we have to follow to create de database.(TENENCIA_PROTECCION_ANIMALES.PDF)<br/>
--The report of the proyect.(Memoria adbd.pdf)<br/>
--The creation sctipt of the database(script.sql)<br/>
+-The text with the especifications we have to follow to create de database.(<a href="https://github.com/albertogilval/Analysis-and-Design-of-Databases/blob/master/TENENCIA_PROTECCION_ANIMALES.pdf">TENENCIA_PROTECCION_ANIMALES.PDF</a>)<br/>
+-The report of the proyect.(<a href="https://github.com/albertogilval/Analysis-and-Design-of-Databases/blob/master/Memoria%20adbd.pdf">Memoria adbd.pdf</a>)<br/>
+-The creation sctipt of the database(<a href="https://github.com/albertogilval/Analysis-and-Design-of-Databases/blob/master/script.sql">script.sql</a>)<br/>
