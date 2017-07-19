@@ -3,12 +3,12 @@ Final project of the subject of Analysis and Design of Databases in Universidad 
 
 This project has been developed by:
 
--PATRICIA SANZ MARCOS
--ANDRÉS DE LA MAZA VALLES
--ALBERTO GIL VALVERTE
+-PATRICIA SANZ MARCOS <br/>
+-ANDRÉS DE LA MAZA VALLES <br/>
+-ALBERTO GIL VALVERTE <br/>
 
 This repository contains the following files:
 
--The text with the especifications we have to follow to create de database.
--The report of the proyect.
--The creation sctipt of the database
+-The text with the especifications we have to follow to create de database.<br/>
+-The report of the proyect.<br/>
+-The creation sctipt of the database<br/>
