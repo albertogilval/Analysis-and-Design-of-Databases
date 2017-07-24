@@ -3,9 +3,11 @@ Final project of the subject of Analysis and Design of Databases in Universidad 
 
 This project has been developed by:
 
--PATRICIA SANZ MARCOS <br/>
--ANDRÉS DE LA MAZA VALLES <br/>
--ALBERTO GIL VALVERTE <br/>
+<ul>
+<li>PATRICIA SANZ MARCOS</li>
+<li>ANDRÉS DE LA MAZA VALLES</li>
+<li>ALBERTO GIL VALVERDE</li>
+</ul>
 
 This repository contains the following files:
 
